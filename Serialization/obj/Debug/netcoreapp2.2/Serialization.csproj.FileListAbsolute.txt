@@ -1,0 +1,11 @@
+C:\Users\lokendra_kumar\source\repos\Serialization\Serialization\bin\Debug\netcoreapp2.2\Serialization.deps.json
+C:\Users\lokendra_kumar\source\repos\Serialization\Serialization\bin\Debug\netcoreapp2.2\Serialization.runtimeconfig.json
+C:\Users\lokendra_kumar\source\repos\Serialization\Serialization\bin\Debug\netcoreapp2.2\Serialization.runtimeconfig.dev.json
+C:\Users\lokendra_kumar\source\repos\Serialization\Serialization\bin\Debug\netcoreapp2.2\Serialization.dll
+C:\Users\lokendra_kumar\source\repos\Serialization\Serialization\bin\Debug\netcoreapp2.2\Serialization.pdb
+C:\Users\lokendra_kumar\source\repos\Serialization\Serialization\obj\Debug\netcoreapp2.2\Serialization.csprojAssemblyReference.cache
+C:\Users\lokendra_kumar\source\repos\Serialization\Serialization\obj\Debug\netcoreapp2.2\Serialization.csproj.CoreCompileInputs.cache
+C:\Users\lokendra_kumar\source\repos\Serialization\Serialization\obj\Debug\netcoreapp2.2\Serialization.AssemblyInfoInputs.cache
+C:\Users\lokendra_kumar\source\repos\Serialization\Serialization\obj\Debug\netcoreapp2.2\Serialization.AssemblyInfo.cs
+C:\Users\lokendra_kumar\source\repos\Serialization\Serialization\obj\Debug\netcoreapp2.2\Serialization.dll
+C:\Users\lokendra_kumar\source\repos\Serialization\Serialization\obj\Debug\netcoreapp2.2\Serialization.pdb
